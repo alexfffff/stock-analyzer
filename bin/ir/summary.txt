@@ -1,0 +1,6 @@
+stockscraper 4000
+
+we want to quanitfy the relative sucesses of certain sectors in the stock market and calculate certain 
+buzzwords that correspond to high performing stocks. in the project we used document search and scraping that 
+we learned about in class. we used this information to calculate the tfidf values of the words used in stock 
+descriptiosn and then multipleid the values by a weight coreesponding with thier sucess. 
